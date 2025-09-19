@@ -23,7 +23,7 @@ export default function Home() {
             "Dive into the world of web development with Umer Mehboob Khan. Discover a Full Stack Web  Developer with 1 years of expertise, showcasing cutting-edge projects and a commitment to crafting exceptional user interfaces.",
           images: [
             {
-              url: `${siteMetadata.siteUrl}${siteMetadata.twitterImage}`,
+              url: `${siteMetadata.siteUrl}`,
               alt: "Umer Mehboob khan - Portfolio Image",
             },
           ],
