@@ -16,13 +16,10 @@ export default function AboutHero() {
           <FadeUp key="hero-image" duration={0.6}>
             <DuotoneImage
               src={heroProfileImg}
-              width={100}
-              height={100}
-              className="h-auto w-full px-0 xl:px-16"
+              width={400}
+              height={400}
               alt="hero image"
-              lightColor="#E0FFFF"
-              darkColor="#004D4D"
-              unoptimized
+              className="h-auto w-full px-0 xl:px-16"
             />
           </FadeUp>
         </AnimatePresence>

@@ -15,5 +15,5 @@ export const siteMetadata = {
   github: "https://github.com/Malik-Umer-Mehboob",
   linkedin: "https://www.linkedin.com/in/umer-khan123/",
   locale: "en-US",
-  googleSiteVerification: "_YJlO90eSoye2AQOhbkRAzNbejzCGiTgAD4RNR3NtHc",
+  googleSiteVerification: "",
 };
