@@ -45,7 +45,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
     description:
       "This project is a Next.js + Tailwind CSS + Playwright based web scraping tool that allows users to scrape website data with multiple modes of interaction. It provides authentication, DOM scraping, filtering, and element selection with an option to export results in CSV format.",
     sourceCodeHref: "https://github.com/Malik-Umer-Mehboob/webscraping-bot",
-    liveWebsiteHref: "https://webscraping-bot-7kuw.vercel.app/",
+    liveWebsiteHref: "https://webscrape.netlify.app/",
   },
   {
     name: "University-Website",
